@@ -2,7 +2,11 @@
 
 A repository of tools for long term investing and/or options trading.
 
-There needs to be a clear distinction between (A) trading with traditional/quantitative finance methods, and (B) trading with price action and technicals. 
+There needs to be a clear distinction between:
+
+* (A) trading with traditional/quantitative finance methods; v.s
+
+* (B) trading with price action and technicals.
 
 I have a separate repository for (B), it's called "pinescript-projects". 
 
