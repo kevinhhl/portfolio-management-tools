@@ -1,16 +1,15 @@
 # portfolio-management-tools
 
-A repository of tools for long term investing and/or options trading.
+A collection of tools for long term investing.
+By long term investing, I refer to buy & hold, long-only, strategies. 
 
-There needs to be a clear distinction between:
+I have separate repositories for:
+| Topic | Remarks | Link |
+| ------| ------- | ---- |
+|[Options pricing](https://github.com/kevinhhl/options-trading-tools)|Options analysis, modeling techniques, and more. |[Link](https://github.com/kevinhhl/options-trading-tools)|
+|[PineScript Projects](https://github.com/kevinhhl/Pinescript-Projects)|A STAT101 approach to technical analysis |[Link](https://github.com/kevinhhl/Pinescript-Projects)|
 
-* (A) trading with traditional/quantitative finance methods; v.s
-
-* (B) trading with price action and technicals.
-
-I have a separate repository for (B), it's called "pinescript-projects". 
-
-This repository **focuses on (A) traditional/quantitative finance methods**.
+<br>
 
 Here is a quick summary of materials to be found in this repository:
 | File          | Remarks |
@@ -19,4 +18,4 @@ Here is a quick summary of materials to be found in this repository:
 | **MPT_with_Empyrial.ipynb** | For MPT applications; ie. calculating the optimal portfolio allocation. |
 | **Monte_Carlo_Simulation_Random_Walk.ipynb**| For forecasting reasonable ranges for price. |
 
-These scripts are considered as pre-processing tools. Python is great, but only to the extent for pre-processing of data. At the end of the day, for the purpose of presenting the results; either to youself or others, it's still better to use Excel where you can easily adjust the colors and layouts on ad-hoc basis by dragging and dropping :D
+These scripts are considered as pre-processing tools. Python is great, but only to the extent for pre-processing of data. At the end of the day, for the purpose of presenting the results; either to yourself or others, it's still better to use Excel where you can easily adjust the colors and layouts on ad-hoc basis by dragging and dropping.
